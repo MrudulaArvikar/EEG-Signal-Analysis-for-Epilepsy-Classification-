@@ -29,9 +29,6 @@ The classification task involves distinguishing between Epilepsy and Control sub
 - **Classification Report**: Includes precision, recall, and F1-score metrics.
 
 
-Tips for Improvement
-Experiment with different classifiers.
-Tune the parameters of classifiers.
-Try feature elimination to improve model performance.
-Acknowledgments
-This project is based on work originally developed by an unnamed source. If you recognize this work or have more information about the original author, please let me know so that proper credit can be given.
+
+**Acknowledgments**
+This project is based on work originally developed by an unnamed source. If you recognize this work or have more information about the original author, please let me know so that proper credit can be given. This project was created primarily for showcasing skills and experience on a resume. It is based on a previously existing project, which has been adapted for educational and demonstration purposes. No violation of copyright is intended, and proper attribution is given where applicable.
